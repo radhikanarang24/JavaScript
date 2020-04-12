@@ -1,0 +1,7 @@
+JS BASICS
+->To open the html file in browser
+----> Save the file in text editor. (Resolve errors, if any)
+----> Open the file from directly from the explorer in Chrome.
+----> You can see the HTML lookup of the file.
+----> To open the console, press F12 and go to Console.
+
